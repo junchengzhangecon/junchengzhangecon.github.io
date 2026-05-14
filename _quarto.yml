@@ -10,7 +10,6 @@ website:
   title: "Juncheng Zhang"
   image: "files/images/profile.svg"
   description: "Personal academic website of Juncheng Zhang"
-  site-url: "https://junchengzhangecon.github.io"
   navbar:
     background: light
     left:
@@ -20,11 +19,10 @@ website:
         href: research.qmd
       - text: Teaching
         href: teaching.qmd
-      - text: Contact
-        href: contact.qmd
-    right:
       - text: CV
         href: cv.qmd
+      - text: Contact
+        href: contact.qmd
 
   page-navigation: true
   page-footer:
