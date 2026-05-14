@@ -4,5 +4,5 @@ description-meta: "Research interests of Juncheng Zhang"
 title-block-banner: false
 ---
 
-My research sits at the intersection of experimental economics, behavioural economics, and decision theory. I am especially interested in the way self-perception affects economic decision-making.
+My research is in behavioural economics and decision theory, with a particular interest in how self-perception influences economic decision-making. I use experimental methods to evaluate theoretical predictions and study individual behaviour.
 

@@ -8,7 +8,7 @@ author-meta: "Juncheng Zhang"
 
 website:
   title: "Juncheng Zhang"
-  image: "files/images/image.png"
+  image: "files/images/profile.svg"
   description: "Personal academic website of Juncheng Zhang"
   site-url: "https://junchengzhangecon.github.io"
   navbar:
