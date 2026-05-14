@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-subtitle: "Courses taught and supported"
 description-meta: "Teaching experience of Juncheng Zhang"
 title-block-banner: false
 ---
