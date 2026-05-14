@@ -1,12 +1,12 @@
 # 怎么修改这个个人主页
 
-这个网站是用 Quarto 做的。你平时不要直接改 `docs/` 里面的 HTML 文件。
+这个网站是用 Quarto 做的。你平时不要直接改 `index.html`、`research.html`、`teaching.html` 这些 HTML 文件。
 
 正确逻辑是：
 
 1. 修改外面的 `.qmd` 源文件
 2. 运行 `quarto render`
-3. Quarto 自动生成新的 `docs/` 网页文件
+3. Quarto 自动生成新的 `.html` 网页文件
 4. 用 git 提交并推送到 GitHub
 5. GitHub Pages 自动更新网站
 
@@ -83,9 +83,9 @@ navbar:
 
 ## 重要提醒
 
-- 不要直接改 `docs/index.html`、`docs/research.html` 这些文件。
-- `docs/` 是 Quarto 自动生成的网站成品。
-- 你改了 `docs/`，下一次运行 `quarto render` 会被覆盖。
+- 不要直接改 `index.html`、`research.html` 这些文件。
+- `.html` 文件是 Quarto 自动生成的网站成品。
+- 你改了 `.html`，下一次运行 `quarto render` 会被覆盖。
 - 正确修改入口永远是 `.qmd` 文件和 `_quarto.yml`。
 
 ## 本地预览

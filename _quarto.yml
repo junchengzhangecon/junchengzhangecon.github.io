@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: .
 
 # Meta
 description-meta: "Juncheng Zhang, PhD Candidate in Economics at the University of Nottingham Ningbo China"
