@@ -1,0 +1,26 @@
+---
+title: "Research"
+subtitle: "Research interests and themes"
+description-meta: "Research interests of Juncheng Zhang"
+title-block-banner: false
+---
+
+My research sits at the intersection of experimental economics, behavioural economics, and decision theory. I am especially interested in the way self-perception affects economic decision-making.
+
+## Main Interests
+
+### Self-perception and decision-making
+
+I study how people make decisions when outcomes contain information about who they are, what they are capable of, or how they compare with others. These situations can make information emotionally costly, not only materially useful.
+
+### Information, search, and avoidance
+
+A recurring theme in my work is the tension between wanting useful information and wanting to preserve a favourable self-view. This connects to search behaviour, belief updating, confidence, and avoidance of ego-relevant feedback.
+
+### Experimental and behavioural economics
+
+I am interested in using experiments to study how people respond to incentives, beliefs, uncertainty, and social context. I also enjoy thinking about how clean experimental designs can reveal mechanisms that are difficult to observe in field data alone.
+
+## Current Direction
+
+At the moment, I am developing ideas around ego-relevant information and individual decisions. I am not listing working papers here yet; this page will be updated when projects are ready to circulate.

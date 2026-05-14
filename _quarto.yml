@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Juncheng Zhang, PhD Candidate in Economics at the University of Nottingham Ningbo China"
+author-meta: "Juncheng Zhang"
+
+website:
+  title: "Juncheng Zhang"
+  image: "files/images/profile.svg"
+  description: "Personal academic website of Juncheng Zhang"
+  site-url: "https://junchengzhangecon.github.io"
+  navbar:
+    background: light
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - text: CV
+        href: cv.qmd
+
+  page-navigation: true
+  page-footer:
+    left: "[Juncheng Zhang](https://junchengzhangecon.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Built with [Quarto](https://quarto.org)."
+
+  search:
+    location: navbar
+    type: textbox
+
+  reader-mode: true
+  draft-mode: unlinked
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/ilovepython666\.github\.io'

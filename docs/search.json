@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "This page provides a short version of my academic CV. A downloadable PDF version will be added later."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD in Economics, University of Nottingham Ningbo China, 2023-present\nMSc in Finance and Economics, University of Southampton, 2020-2021\nBSc in Finance, Zhuhai College of Jilin University, 2016-2020"
+  },
+  {
+    "objectID": "cv.html#academic-affiliation",
+    "href": "cv.html#academic-affiliation",
+    "title": "CV",
+    "section": "Academic Affiliation",
+    "text": "Academic Affiliation\n\nPhD Candidate in Economics, School of Economics, University of Nottingham Ningbo China\nMember, CeDEx China"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "CV",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nGraduate Teaching Assistant, School of Economics, University of Nottingham Ningbo China, 2024-present\nLecturer, School of Economics and Management, Guangzhou Institute of Science and Technology, 2022-2023"
+  },
+  {
+    "objectID": "cv.html#selected-teaching",
+    "href": "cv.html#selected-teaching",
+    "title": "CV",
+    "section": "Selected Teaching",
+    "text": "Selected Teaching\n\nExperimental and Behavioural Economics (ECON2043)\nAdvanced Experimental and Behavioural Economics (ECON3079)\nPython Programming for Economics (ECON1059)\nStatistics\nSecurities Investment"
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n\nUNNC PhD Scholarship, 2023-2026\nDean’s List Award, University of Southampton, 2021"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\n\nMandarin Chinese, native\nHakka Chinese, native\nCantonese, native\nEnglish, fluent"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research sits at the intersection of experimental economics, behavioural economics, and decision theory. I am especially interested in the way self-perception affects economic decision-making."
+  },
+  {
+    "objectID": "research.html#main-interests",
+    "href": "research.html#main-interests",
+    "title": "Research",
+    "section": "Main Interests",
+    "text": "Main Interests\n\nSelf-perception and decision-making\nI study how people make decisions when outcomes contain information about who they are, what they are capable of, or how they compare with others. These situations can make information emotionally costly, not only materially useful.\n\n\nInformation, search, and avoidance\nA recurring theme in my work is the tension between wanting useful information and wanting to preserve a favourable self-view. This connects to search behaviour, belief updating, confidence, and avoidance of ego-relevant feedback.\n\n\nExperimental and behavioural economics\nI am interested in using experiments to study how people respond to incentives, beliefs, uncertainty, and social context. I also enjoy thinking about how clean experimental designs can reveal mechanisms that are difficult to observe in field data alone."
+  },
+  {
+    "objectID": "research.html#current-direction",
+    "href": "research.html#current-direction",
+    "title": "Research",
+    "section": "Current Direction",
+    "text": "Current Direction\nAt the moment, I am developing ideas around ego-relevant information and individual decisions. I am not listing working papers here yet; this page will be updated when projects are ready to circulate."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Experimental and Behavioural Economics (ECON2043)\nGraduate Teaching Assistant, Spring AY 2024-25; Spring AY 2025-26\nAdvanced Experimental and Behavioural Economics (ECON3079)\nGraduate Teaching Assistant, Spring AY 2025-26\nPython Programming for Economics (ECON1059)\nGraduate Teaching Assistant, Fall AY 2024-25"
+  },
+  {
+    "objectID": "teaching.html#university-of-nottingham-ningbo-china",
+    "href": "teaching.html#university-of-nottingham-ningbo-china",
+    "title": "Teaching",
+    "section": "",
+    "text": "Experimental and Behavioural Economics (ECON2043)\nGraduate Teaching Assistant, Spring AY 2024-25; Spring AY 2025-26\nAdvanced Experimental and Behavioural Economics (ECON3079)\nGraduate Teaching Assistant, Spring AY 2025-26\nPython Programming for Economics (ECON1059)\nGraduate Teaching Assistant, Fall AY 2024-25"
+  },
+  {
+    "objectID": "teaching.html#guangzhou-institute-of-science-and-technology",
+    "href": "teaching.html#guangzhou-institute-of-science-and-technology",
+    "title": "Teaching",
+    "section": "Guangzhou Institute of Science and Technology",
+    "text": "Guangzhou Institute of Science and Technology\n\nStatistics\nLecturer\nSecurities Investment\nLecturer"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am happy to hear from researchers, students, and anyone interested in experimental and behavioural economics.\nJuncheng Zhang\nSchool of Economics\nUniversity of Nottingham Ningbo China\n199 Taikang East Road\nNingbo, 315100, China\nEmail: Juncheng.ZHANG at nottingham dot edu dot cn\nCeDEx China: cedex-china.github.io"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Juncheng Zhang",
+    "section": "",
+    "text": "UNNC\n  \n  \n    \n     CeDEx China\n  \n  \n    \n     E-mail\n  \n\n  \n  \nI am a PhD Candidate in Economics at the University of Nottingham Ningbo China and a member of CeDEx China.\nMy research interests are in experimental and behavioural economics, especially how people’s self-perception shapes decision-making. I am interested in how individuals interpret information about themselves, how they respond to ego-relevant uncertainty, and how these psychological forces affect search, effort, and economic choices."
+  }
+]

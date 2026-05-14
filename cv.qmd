@@ -1,0 +1,44 @@
+---
+title: "CV"
+subtitle: "A brief academic profile"
+description-meta: "CV summary of Juncheng Zhang"
+title-block-banner: false
+---
+
+This page provides a short version of my academic CV. A downloadable PDF version will be added later.
+
+## Education
+
+- **PhD in Economics**, University of Nottingham Ningbo China, 2023-present
+- **MSc in Finance and Economics**, University of Southampton, 2020-2021
+- **BSc in Finance**, Zhuhai College of Jilin University, 2016-2020
+
+## Academic Affiliation
+
+- PhD Candidate in Economics, School of Economics, University of Nottingham Ningbo China
+- Member, [CeDEx China](https://cedex-china.github.io/)
+
+## Teaching Experience
+
+- Graduate Teaching Assistant, School of Economics, University of Nottingham Ningbo China, 2024-present
+- Lecturer, School of Economics and Management, Guangzhou Institute of Science and Technology, 2022-2023
+
+## Selected Teaching
+
+- Experimental and Behavioural Economics (ECON2043)
+- Advanced Experimental and Behavioural Economics (ECON3079)
+- Python Programming for Economics (ECON1059)
+- Statistics
+- Securities Investment
+
+## Awards
+
+- UNNC PhD Scholarship, 2023-2026
+- Dean's List Award, University of Southampton, 2021
+
+## Languages
+
+- Mandarin Chinese, native
+- Hakka Chinese, native
+- Cantonese, native
+- English, fluent

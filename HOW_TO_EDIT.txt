@@ -1,0 +1,104 @@
+# 怎么修改这个个人主页
+
+这个网站是用 Quarto 做的。你平时不要直接改 `docs/` 里面的 HTML 文件。
+
+正确逻辑是：
+
+1. 修改外面的 `.qmd` 源文件
+2. 运行 `quarto render`
+3. Quarto 自动生成新的 `docs/` 网页文件
+4. 用 git 提交并推送到 GitHub
+5. GitHub Pages 自动更新网站
+
+## 最常改的文件
+
+- `index.qmd`：首页内容，也就是打开网站第一眼看到的页面
+- `research.qmd`：Research 页面，写研究兴趣、研究方向
+- `teaching.qmd`：Teaching 页面，写课程和教学经历
+- `cv.qmd`：CV 页面，写教育经历、教学经历、奖项、语言等
+- `contact.qmd`：Contact 页面，写邮箱、地址、链接
+- `_quarto.yml`：网站总设置，包括顶部导航栏、网站标题、页脚
+- `styles.css`：网站样式，比如颜色、字体、间距
+
+## 例子 1：修改首页文字
+
+打开：
+
+`index.qmd`
+
+找到类似这段：
+
+```markdown
+I am a PhD Candidate in Economics at the University of Nottingham Ningbo China...
+```
+
+直接改成你想展示的英文介绍即可。
+
+改完以后，在终端运行：
+
+```bash
+cd /Users/junchengzhang/Desktop/junchengzhangecon.github.io
+quarto render
+git add .
+git commit -m "Update homepage"
+git push
+```
+
+## 例子 2：修改 Teaching 页面
+
+打开：
+
+`teaching.qmd`
+
+你会看到课程标题和说明。直接修改文字即可，比如课程年份、课程名称、角色说明。
+
+改完后同样运行：
+
+```bash
+cd /Users/junchengzhang/Desktop/junchengzhangecon.github.io
+quarto render
+git add .
+git commit -m "Update teaching page"
+git push
+```
+
+## 例子 3：修改顶部菜单
+
+打开：
+
+`_quarto.yml`
+
+找到：
+
+```yaml
+navbar:
+  left:
+    - text: Home
+      href: index.qmd
+    - text: Research
+      href: research.qmd
+```
+
+这里控制顶部导航栏。一般不建议乱改缩进，因为 YAML 对空格很敏感。
+
+## 重要提醒
+
+- 不要直接改 `docs/index.html`、`docs/research.html` 这些文件。
+- `docs/` 是 Quarto 自动生成的网站成品。
+- 你改了 `docs/`，下一次运行 `quarto render` 会被覆盖。
+- 正确修改入口永远是 `.qmd` 文件和 `_quarto.yml`。
+
+## 本地预览
+
+如果你想先在本地预览，不马上发布，可以运行：
+
+```bash
+cd /Users/junchengzhang/Desktop/junchengzhangecon.github.io
+quarto preview
+```
+
+终端会显示一个本地网址，比如：
+
+`http://localhost:xxxx`
+
+打开它就能看到本地预览。确认没问题后，再运行 `quarto render`、`git commit`、`git push` 发布。
