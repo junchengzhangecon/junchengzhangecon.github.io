@@ -21,4 +21,4 @@ title-block-banner: false
   Lecturer, Fall AY 2021-22
 
 - **Securities Investment**  
-  Lecturer, Fall AY 2021-22, Spring AY 2022-23
+  Lecturer, Fall AY 2021-22; Spring AY 2022-23
