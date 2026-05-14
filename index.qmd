@@ -6,27 +6,10 @@ page-navigation: false
 toc: false
 page-layout: full
 
-about:
-  id: hero-heading
-  template: trestles
-  image: "files/images/profile.svg"
-  image-width: 68%
-  links:
-    - icon: globe
-      text: UNNC
-      href: https://www.nottingham.edu.cn/
-      target: _blank
-    - icon: sun
-      text: CeDEx China
-      href: https://cedex-china.github.io/
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:Juncheng.ZHANG@nottingham.edu.cn
----
 
 :::{#hero-heading}
 
+## Hi there!
 I am a PhD Candidate in Economics at the [University of Nottingham Ningbo China](https://www.nottingham.edu.cn/) and a member of [CeDEx China](https://cedex-china.github.io/).I received my Master’s degree from [University of Southampton](https://www.southampton.ac.uk/) and my Bachelor’s degree from Jilin University, Zhuhai College.
 
 My research interests are in experimental and behavioural economics, especially how people's self-perception shapes decision-making.
