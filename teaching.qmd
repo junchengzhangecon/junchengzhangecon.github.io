@@ -18,7 +18,7 @@ title-block-banner: false
 ## Guangzhou Institute of Science and Technology
 
 - **Statistics**  
-  Lecturer, Fall AY 2021-22
+  Lecturer, Fall AY 2022-23
 
 - **Securities Investment**  
-  Lecturer, Fall AY 2021-22; Spring AY 2022-23
+  Lecturer, Fall AY 2022-23; Spring AY 2022-23
