@@ -1,6 +1,5 @@
 ---
 title: "CV"
-subtitle: "A brief academic profile"
 description-meta: "CV summary of Juncheng Zhang"
 title-block-banner: false
 ---
