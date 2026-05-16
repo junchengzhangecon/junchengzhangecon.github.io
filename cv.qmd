@@ -4,8 +4,6 @@ description-meta: "CV summary of Juncheng Zhang"
 title-block-banner: false
 ---
 
-This page provides a short version of my academic CV. A downloadable PDF version will be added later.
-
 ## Education
 
 - **PhD in Economics**, University of Nottingham Ningbo China, 2023-present
@@ -24,18 +22,13 @@ This page provides a short version of my academic CV. A downloadable PDF version
 - The 3rd Xiangjiang River Forum, HNU 2025
 
 
-## Teaching Experience
+## Teaching
 
-- Graduate Teaching Assistant, School of Economics, University of Nottingham Ningbo China, 2024-present
-- Lecturer, School of Economics and Management, Guangzhou Institute of Science and Technology, 2022-2023
+**University of Nottingham Ningbo China** — Graduate Teaching Assistant, School of Economics (2024–present)  
+*Experimental and Behavioural Economics (ECON2043); Advanced Experimental and Behavioural Economics (ECON3079); Python Programming for Economics (ECON1059)*
 
-## Selected Teaching
-
-- Experimental and Behavioural Economics (ECON2043)
-- Advanced Experimental and Behavioural Economics (ECON3079)
-- Python Programming for Economics (ECON1059)
-- Statistics
-- Securities Investment
+**Guangzhou Institute of Science and Technology** — Lecturer, School of Economics and Management (2022–2023)  
+*Statistics; Securities Investment*
 
 ## Awards
 

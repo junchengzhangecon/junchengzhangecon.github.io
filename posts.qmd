@@ -1,18 +1,9 @@
 ---
 title: "Posts"
-subtitle: "Reflections, reading notes, and occasional thoughts"
+subtitle: "To be added"
 description-meta: "Posts and reflections by Juncheng Zhang"
-listing:
-  contents: posts
-  type: default
-  sort: "date desc"
-  fields: [date, title, subtitle, author, description]
-  categories: false
-  sort-ui: false
-  filter-ui: false
 page-navigation: false
 title-block-banner: false
 ---
 
-:::{#posts}
-:::
+Posts will be added here later.

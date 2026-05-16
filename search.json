@@ -4,14 +4,14 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "This page provides a short version of my academic CV. A downloadable PDF version will be added later."
+    "text": "PhD in Economics, University of Nottingham Ningbo China, 2023-present\nMSc in Finance and Economics, University of Southampton, 2020-2021\nBSc in Finance, Zhuhai College of Jilin University, 2016-2020"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nPhD in Economics, University of Nottingham Ningbo China, 2023-present\nMSc in Finance and Economics, University of Southampton, 2020-2021\nBSc in Finance, Zhuhai College of Jilin University, 2016-2020"
+    "section": "",
+    "text": "PhD in Economics, University of Nottingham Ningbo China, 2023-present\nMSc in Finance and Economics, University of Southampton, 2020-2021\nBSc in Finance, Zhuhai College of Jilin University, 2016-2020"
   },
   {
     "objectID": "cv.html#academic-affiliation",
@@ -28,18 +28,11 @@
     "text": "Presentation\n\nThe 3rd Xiangjiang River Forum, HNU 2025"
   },
   {
-    "objectID": "cv.html#teaching-experience",
-    "href": "cv.html#teaching-experience",
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
     "title": "CV",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\n\nGraduate Teaching Assistant, School of Economics, University of Nottingham Ningbo China, 2024-present\nLecturer, School of Economics and Management, Guangzhou Institute of Science and Technology, 2022-2023"
-  },
-  {
-    "objectID": "cv.html#selected-teaching",
-    "href": "cv.html#selected-teaching",
-    "title": "CV",
-    "section": "Selected Teaching",
-    "text": "Selected Teaching\n\nExperimental and Behavioural Economics (ECON2043)\nAdvanced Experimental and Behavioural Economics (ECON3079)\nPython Programming for Economics (ECON1059)\nStatistics\nSecurities Investment"
+    "section": "Teaching",
+    "text": "Teaching\nUniversity of Nottingham Ningbo China — Graduate Teaching Assistant, School of Economics (2024–present)\nExperimental and Behavioural Economics (ECON2043); Advanced Experimental and Behavioural Economics (ECON3079); Python Programming for Economics (ECON1059)\nGuangzhou Institute of Science and Technology — Lecturer, School of Economics and Management (2022–2023)\nStatistics; Securities Investment"
   },
   {
     "objectID": "cv.html#awards",
@@ -109,6 +102,6 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "No matching items"
+    "text": "Posts will be added here later."
   }
 ]
