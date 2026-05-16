@@ -11,7 +11,7 @@ School of Economics
 University of Nottingham Ningbo China
 201, Trent building  
 199 Taikang East Road  
-Ningbo, 315100, Chinaß
+Ningbo, 315100, China
 
 **Email:** [Juncheng.ZHANG@nottingham.edu.cn](mailto:Juncheng.ZHANG@nottingham.edu.cn)  
 **CeDEx China:** [cedex-china.github.io](https://cedex-china.github.io/)
