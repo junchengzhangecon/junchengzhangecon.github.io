@@ -5,7 +5,4 @@ page-navigation: false
 title-block-banner: false
 ---
 
-
-Notes
-
-- [Macroeconomics Notes (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf)
+- [Macro Current-value Hamiltonian (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf)
