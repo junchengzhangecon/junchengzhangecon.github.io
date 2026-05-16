@@ -5,4 +5,7 @@ page-navigation: false
 title-block-banner: false
 ---
 
-- [Macro Current-value Hamiltonian (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf)
+Personal notes on solving the current-value Hamiltonian using the Lagrangian approach:)
+
+- [Macro Current-value Hamiltonian (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf){target="_blank"}
+
