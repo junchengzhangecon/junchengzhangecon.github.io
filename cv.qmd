@@ -22,18 +22,23 @@ title-block-banner: false
 - The 3rd Xiangjiang River Forum, HNU 2025
 
 
-## Teaching
+- **UNNC** — GTA
+  - Experimental and Behavioural Economics (ECON2043), Autumn AY24–25
+  - Advanced Experimental and Behavioural Economics (ECON3079), Spring AY25–26
+  - Python Programming for Economics (ECON1059), Spring AY25–26
 
-**University of Nottingham Ningbo China** — Graduate Teaching Assistant, School of Economics (2024–present)  
-*Experimental and Behavioural Economics (ECON2043); Advanced Experimental and Behavioural Economics (ECON3079); Python Programming for Economics (ECON1059)*
-
-**Guangzhou Institute of Science and Technology** — Lecturer, School of Economics and Management (2022–2023)  
-*Statistics; Securities Investment*
+- **GZIST** — Lecturer
+  - Statistics, Autumn AY22–23
+  - Securities Investment, Autumn & Spring AY22–23
 
 ## Awards
 
 - UNNC PhD Scholarship, 2023-2026
 - Dean's List Award, University of Southampton, 2021
+
+## Skills
+
+L\!\!A\TeX, Python, Stata, z-Tree, oTree, vibe coding
 
 ## Languages
 
