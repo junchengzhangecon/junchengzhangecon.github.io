@@ -12,7 +12,7 @@ title-block-banner: false
 - **Advanced Experimental and Behavioural Economics (ECON3079)**  
   Graduate Teaching Assistant, Spring AY 2025-26
 
-- **Python Programming for Economics (ECON1059)**  
+- **Python Programming for Economists (ECON1059)**  
   Graduate Teaching Assistant, Fall AY 2024-25
 
 ## Guangzhou Institute of Science and Technology
