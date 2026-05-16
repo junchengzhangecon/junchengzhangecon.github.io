@@ -40,7 +40,7 @@ title-block-banner: false
 
 ## Skills
 
-<span class="latex-logo" aria-label="LaTeX">L<span class="latex-logo-a">A</span>T<span class="latex-logo-e">E</span>X</span>, Python, Stata, z-Tree, oTree, vibe coding
+LaTeX, Python, Stata, z-Tree, oTree, vibe coding
 
 ## Languages
 
