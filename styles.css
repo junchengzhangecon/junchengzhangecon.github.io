@@ -73,3 +73,25 @@ main a:hover {
 blockquote {
   border-left-color: var(--jz-warm);
 }
+
+.latex-logo {
+  font-family: "Latin Modern Roman", "Computer Modern Serif", "Times New Roman", serif;
+  letter-spacing: -0.08em;
+  white-space: nowrap;
+}
+
+.latex-logo-a {
+  font-size: 0.72em;
+  position: relative;
+  top: -0.28em;
+  margin-left: -0.12em;
+  margin-right: -0.06em;
+}
+
+.latex-logo-e {
+  font-size: 0.72em;
+  position: relative;
+  top: 0.16em;
+  margin-left: -0.04em;
+  margin-right: -0.05em;
+}
