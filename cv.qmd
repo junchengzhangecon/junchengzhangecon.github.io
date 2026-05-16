@@ -17,10 +17,6 @@ title-block-banner: false
 - Lecturer, Guangzhou Institute of Science and Technology, 2022-2023
 
 
-## Presentation
-
-- The 3rd Xiangjiang River Forum, HNU 2025
-
 
 ## Teaching 
 
@@ -32,6 +28,10 @@ title-block-banner: false
 - GZIST — Lecturer
   - Statistics, Autumn AY22–23
   - Securities Investment, Autumn & Spring AY22–23
+
+## Presentation
+
+- The 3rd Xiangjiang River Forum, HNU 2025
 
 ## Awards
 
