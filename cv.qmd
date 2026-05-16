@@ -40,7 +40,7 @@ title-block-banner: false
 
 ## Skills
 
-L\!\!A\TeX, Python, Stata, z-Tree, oTree, vibe coding
+$\mathrm{L\!\!A\TeX}$, Python, Stata, z-Tree, oTree, vibe coding
 
 ## Languages
 
