@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 description-meta: "CV summary of Juncheng Zhang"
 title-block-banner: false
 ---
@@ -40,7 +40,7 @@ title-block-banner: false
 
 ## Skills
 
-$\mathrm{L\!\!A\TeX}$, Python, Stata, z-Tree, oTree, vibe coding
+$L\!\!A\TeX$, Python, Stata, z-Tree, oTree, vibe coding
 
 ## Languages
 
