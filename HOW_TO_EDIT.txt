@@ -102,3 +102,43 @@ quarto preview
 `http://localhost:xxxx`
 
 打开它就能看到本地预览。确认没问题后，再运行 `quarto render`、`git commit`、`git push` 发布。
+
+## 例子 4：修改 Notes / Posts 文章
+
+现在网站有一个 `Notes` 板块，文章放在：
+
+`posts/`
+
+目前第一篇文章在：
+
+`posts/first-note/index.qmd`
+
+你要改这篇文章，就打开这个文件，修改里面的标题、日期和正文。
+
+文章开头这一段叫 YAML 头部：
+
+```yaml
+---
+title: "Why I Want to Keep Notes"
+subtitle: "A small place for thoughts that are not yet papers"
+date: "2026-05-16"
+categories: [notes, reflection]
+---
+```
+
+- `title`：文章标题
+- `subtitle`：文章副标题，可以删掉或改掉
+- `date`：文章日期
+- `categories`：文章分类标签
+
+正文从第二个 `---` 后面开始写。可以写中文，也可以写英文。
+
+如果要新建第二篇文章，复制整个文件夹：
+
+`posts/first-note/`
+
+改成新名字，比如：
+
+`posts/my-second-note/`
+
+然后修改里面的 `index.qmd` 即可。

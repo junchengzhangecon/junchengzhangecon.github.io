@@ -1,0 +1,17 @@
+---
+title: "Notes"
+subtitle: "Reflections, reading notes, and occasional thoughts"
+description-meta: "Notes and reflections by Juncheng Zhang"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#posts}
+:::
