@@ -14,4 +14,4 @@ University of Nottingham Ningbo China
 Ningbo, 315100, China
 
 **Email:** [Juncheng.ZHANG@nottingham.edu.cn](mailto:Juncheng.ZHANG@nottingham.edu.cn)  
-**CeDEx China:** [cedex-china.github.io](https://cedex-china.github.io/)
+
