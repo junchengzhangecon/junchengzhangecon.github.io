@@ -1,9 +1,11 @@
 ---
 title: "Posts"
-subtitle: "To be added"
 description-meta: "Posts and reflections by Juncheng Zhang"
 page-navigation: false
 title-block-banner: false
 ---
 
 
+Notes
+
+- [Macroeconomics Notes (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf)
