@@ -1,5 +1,5 @@
 ---
-title: 'Juncheng Zhang | <span class="cn-name">张俊成</span>'
+title: 'Juncheng Zhang <span class="divider">|</span> <span class="cn-name">张俊成</span>'
 description-meta: "Juncheng Zhang, PhD Candidate in Economics at the University of Nottingham Ningbo China"
 image: "files/images/image.png"
 page-navigation: false

@@ -96,6 +96,13 @@ blockquote {
   margin-right: -0.05em;
 }
 
+.divider {
+  font-weight: 200;
+  font-size: 0.9em;
+  opacity: 0.65;
+  margin: 0 0.08em;
+}
+
 .cn-name {
   font-family:
     "FZShuSong-Z01",
