@@ -1,0 +1,5 @@
+cd /Users/junchengzhang/Desktop/junchengzhangecon.github.io
+quarto render
+git add .
+git commit -m "Update website"
+git push
