@@ -1,5 +1,5 @@
 ---
-title: "Juncheng Zhang"
+title: "Juncheng Zhang | 张俊成"
 description-meta: "Juncheng Zhang, PhD Candidate in Economics at the University of Nottingham Ningbo China"
 image: "files/images/image.png"
 page-navigation: false
