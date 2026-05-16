@@ -57,15 +57,11 @@ main a:hover {
   overflow: hidden;
 }
 
-.quarto-listing .card-img-top {
-  background: var(--jz-sand);
-}
-
 .category {
   border-radius: 999px;
-  background: var(--jz-blue);
+  background: transparent;
   color: var(--jz-ink);
-  border: 0;
+  border: 1px solid rgba(22, 59, 68, 0.18);
 }
 
 .description,

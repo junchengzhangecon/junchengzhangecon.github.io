@@ -1,14 +1,15 @@
 ---
-title: "Notes"
+title: "Posts"
 subtitle: "Reflections, reading notes, and occasional thoughts"
-description-meta: "Notes and reflections by Juncheng Zhang"
+description-meta: "Posts and reflections by Juncheng Zhang"
 listing:
   contents: posts
   type: default
   sort: "date desc"
-  categories: true
-  sort-ui: true
-  filter-ui: true
+  fields: [date, title, subtitle, author, description]
+  categories: false
+  sort-ui: false
+  filter-ui: false
 page-navigation: false
 title-block-banner: false
 ---
