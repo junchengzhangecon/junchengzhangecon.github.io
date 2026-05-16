@@ -6,11 +6,11 @@ title-block-banner: false
 
 I am happy to hear from researchers, students, and anyone interested in experimental and behavioural economics.
 
-**Juncheng Zhang**  
-School of Economics  
-University of Nottingham Ningbo China
-201, Trent building  
-199 Taikang East Road  
+<strong>Juncheng Zhang</strong><br>
+School of Economics<br>
+University of Nottingham Ningbo China<br>
+201, Trent Building<br>
+199 Taikang East Road<br>
 Ningbo, 315100, China
 
 **Email:** [Juncheng.ZHANG@nottingham.edu.cn](mailto:Juncheng.ZHANG@nottingham.edu.cn)  
