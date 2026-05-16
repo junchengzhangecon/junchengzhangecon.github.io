@@ -22,12 +22,14 @@ title-block-banner: false
 - The 3rd Xiangjiang River Forum, HNU 2025
 
 
-- **UNNC** — GTA
+## Teaching 
+
+- UNNC — GTA
   - Experimental and Behavioural Economics (ECON2043), Autumn AY24–25
   - Advanced Experimental and Behavioural Economics (ECON3079), Spring AY25–26
   - Python Programming for Economics (ECON1059), Spring AY25–26
 
-- **GZIST** — Lecturer
+- GZIST — Lecturer
   - Statistics, Autumn AY22–23
   - Securities Investment, Autumn & Spring AY22–23
 
