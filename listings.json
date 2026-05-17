@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/index.html",
       "/posts/slock-ai/index.html"
     ]
   }
