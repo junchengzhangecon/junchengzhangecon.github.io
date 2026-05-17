@@ -5,11 +5,11 @@ page-navigation: false
 title-block-banner: false
 ---
 
-Personal notes on solving the current-value Hamiltonian using the Lagrangian approach:)
+Notes on solving the current-value Hamiltonian using the Lagrangian approach.
 
 - [Macro Current-value Hamiltonian (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf){target="_blank"}
 
-## Seminar Notes for Python Programming for Economics (Autumn 2025)
+Notes for Python Programming for Economics (Autumn 2025)
 
 Materials for ECON1059 seminars. PDF files are for quick reading, and notebooks are for running or editing the code.
 
@@ -25,6 +25,4 @@ Materials for ECON1059 seminars. PDF files are for quick reading, and notebooks 
 | Seminar 8 | [PDF](files/notes/econ1059-autumn-2025/Seminar_8.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_8.ipynb){target="_blank"} |
 | Seminar 9 | [PDF](files/notes/econ1059-autumn-2025/Seminar_9.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_9.ipynb){target="_blank"} |
 
-Additional material:
 
-- [Binary Big O (PDF)](files/notes/econ1059-autumn-2025/Binary_Big_O.pdf){target="_blank"}
