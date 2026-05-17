@@ -49,6 +49,8 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body:
+      - _includes/category-colors.html
     toc: true
     footnotes-hover: true
     code-copy: true
