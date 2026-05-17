@@ -11,7 +11,6 @@ Notes on solving the current-value Hamiltonian using the Lagrangian approach.
 
 Notes for Python Programming for Economics (Autumn 2025)
 
-Materials for ECON1059 seminars. PDF files are for quick reading, and notebooks are for running or editing the code.
 
 | Seminar | PDF | Notebook |
 |---|---|---|
