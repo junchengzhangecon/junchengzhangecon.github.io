@@ -50,28 +50,9 @@
       .forEach(applyChipColor);
   }
 
-  function forceNotesLinksToNewTab() {
-    document
-      .querySelectorAll(".notes-feature-card a, .notes-materials a")
-      .forEach((link) => {
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-
-        link.addEventListener("click", (event) => {
-          if (event.defaultPrevented || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
-            return;
-          }
-
-          event.preventDefault();
-          window.open(link.href, "_blank", "noopener,noreferrer");
-        });
-      });
-  }
-
   document.addEventListener("DOMContentLoaded", () => {
     refreshCategoryLabels();
     removeAllCategoryChip();
     colorChips();
-    forceNotesLinksToNewTab();
   });
 })();
