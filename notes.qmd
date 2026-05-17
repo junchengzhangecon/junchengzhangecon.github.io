@@ -14,12 +14,12 @@ Notes for Python Programming for Economics (Autumn 2025)
 
 | Seminar | PDF | Notebook |
 |---|---|---|
-| Seminar 1 | [PDF](files/notes/econ1059-autumn-2025/Seminar_1.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_1.ipynb){target="_blank"} |
-| Seminar 2 | [PDF](files/notes/econ1059-autumn-2025/Seminar_2.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_2.ipynb){target="_blank"} |
-| Seminar 3 | [PDF](files/notes/econ1059-autumn-2025/Seminar_3.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_3.ipynb){target="_blank"} |
-| Seminar 4 | [PDF](files/notes/econ1059-autumn-2025/Seminar_4.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_4.ipynb){target="_blank"} |
-| Seminar 5 | [PDF](files/notes/econ1059-autumn-2025/Seminar_5.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_5.ipynb){target="_blank"} |
-| Seminar 6 | [PDF](files/notes/econ1059-autumn-2025/Seminar_6.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_6.ipynb){target="_blank"} |
-| Seminar 7 | [PDF](files/notes/econ1059-autumn-2025/Seminar_7.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_7.ipynb){target="_blank"} |
-| Seminar 8 | [PDF](files/notes/econ1059-autumn-2025/Seminar_8.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_8.ipynb){target="_blank"} |
-| Seminar 9 | [PDF](files/notes/econ1059-autumn-2025/Seminar_9.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_9.ipynb){target="_blank"} |
+| Seminar 1 | [PDF](files/notes/econ1059-autumn-2025/Seminar_1.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_1.ipynb){download="Seminar_1.ipynb"} |
+| Seminar 2 | [PDF](files/notes/econ1059-autumn-2025/Seminar_2.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_2.ipynb){download="Seminar_2.ipynb"} |
+| Seminar 3 | [PDF](files/notes/econ1059-autumn-2025/Seminar_3.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_3.ipynb){download="Seminar_3.ipynb"} |
+| Seminar 4 | [PDF](files/notes/econ1059-autumn-2025/Seminar_4.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_4.ipynb){download="Seminar_4.ipynb"} |
+| Seminar 5 | [PDF](files/notes/econ1059-autumn-2025/Seminar_5.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_5.ipynb){download="Seminar_5.ipynb"} |
+| Seminar 6 | [PDF](files/notes/econ1059-autumn-2025/Seminar_6.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_6.ipynb){download="Seminar_6.ipynb"} |
+| Seminar 7 | [PDF](files/notes/econ1059-autumn-2025/Seminar_7.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_7.ipynb){download="Seminar_7.ipynb"} |
+| Seminar 8 | [PDF](files/notes/econ1059-autumn-2025/Seminar_8.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_8.ipynb){download="Seminar_8.ipynb"} |
+| Seminar 9 | [PDF](files/notes/econ1059-autumn-2025/Seminar_9.pdf){target="_blank"} | [ipynb](files/notes/econ1059-autumn-2025/Seminar_9.ipynb){download="Seminar_9.ipynb"} |
