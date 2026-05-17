@@ -233,6 +233,10 @@ blockquote {
     transform 150ms ease;
 }
 
+.quarto-listing-category .category[data-category=""] {
+  display: none;
+}
+
 .quarto-listing-category .category:nth-child(2n) {
   transform: translateY(0.18rem);
 }

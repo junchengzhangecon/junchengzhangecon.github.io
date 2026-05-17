@@ -23,12 +23,6 @@
     if (!keyword) return;
 
     chip.dataset.keyword = keyword;
-    if (keyword.toLowerCase() === "all") {
-      chip.style.setProperty("--chip-bg", "#f8f3ea");
-      chip.style.setProperty("--chip-ink", "#45565a");
-      chip.style.setProperty("--chip-border", "#d7c8ae");
-      return;
-    }
 
     const color = palette[hashKeyword(keyword) % palette.length];
     chip.style.setProperty("--chip-bg", color.bg);
@@ -41,6 +35,12 @@
       if (title.textContent.trim() === "Categories") {
         title.textContent = "Keywords";
       }
+    });
+  }
+
+  function removeAllCategoryChip() {
+    document.querySelectorAll('.quarto-listing-category .category[data-category=""]').forEach((chip) => {
+      chip.remove();
     });
   }
 
@@ -70,6 +70,7 @@
 
   document.addEventListener("DOMContentLoaded", () => {
     refreshCategoryLabels();
+    removeAllCategoryChip();
     colorChips();
     forceNotesLinksToNewTab();
   });
