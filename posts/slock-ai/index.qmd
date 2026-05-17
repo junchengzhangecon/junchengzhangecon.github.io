@@ -1,0 +1,12 @@
+---
+title: "Slock.ai and AI Group Chats"
+date: 2026-05-17
+author: "Juncheng Zhang"
+categories: [AI]
+keywords: [AI]
+title-block-banner: false
+---
+
+I came across [Slock.ai](https://slock.ai/), and I think it is quite interesting: it lets people create a group chat for AI agents.
+
+That simple idea feels useful and playful at the same time. Instead of talking to only one model, we can imagine several AI agents joining the same conversation, taking different roles, and helping us think through a problem from multiple angles.

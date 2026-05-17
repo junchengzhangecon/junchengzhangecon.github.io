@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Experimental and Behavioural Economics (ECON2043)\nGraduate Teaching Assistant, Spring AY 2024-25; Spring AY 2025-26\nAdvanced Experimental and Behavioural Economics (ECON3079)\nGraduate Teaching Assistant, Spring AY 2025-26\nPython Programming for Economics (ECON1059) Graduate Teaching Assistant, Fall AY 2024-25"
+  },
+  {
+    "objectID": "teaching.html#university-of-nottingham-ningbo-china",
+    "href": "teaching.html#university-of-nottingham-ningbo-china",
+    "title": "Teaching",
+    "section": "",
+    "text": "Experimental and Behavioural Economics (ECON2043)\nGraduate Teaching Assistant, Spring AY 2024-25; Spring AY 2025-26\nAdvanced Experimental and Behavioural Economics (ECON3079)\nGraduate Teaching Assistant, Spring AY 2025-26\nPython Programming for Economics (ECON1059) Graduate Teaching Assistant, Fall AY 2024-25"
+  },
+  {
+    "objectID": "teaching.html#guangzhou-institute-of-science-and-technology",
+    "href": "teaching.html#guangzhou-institute-of-science-and-technology",
+    "title": "Teaching",
+    "section": "Guangzhou Institute of Science and Technology",
+    "text": "Guangzhou Institute of Science and Technology\n\nStatistics\nLecturer, Fall AY 2022-23\nSecurities Investment\nLecturer, Fall AY 2022-23; Spring AY 2022-23"
+  },
+  {
+    "objectID": "posts/slock-ai/index.html",
+    "href": "posts/slock-ai/index.html",
+    "title": "Slock.ai and AI Group Chats",
+    "section": "",
+    "text": "I came across Slock.ai, and I think it is quite interesting: it lets people create a group chat for AI agents.\nThat simple idea feels useful and playful at the same time. Instead of talking to only one model, we can imagine several AI agents joining the same conversation, taking different roles, and helping us think through a problem from multiple angles."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Personal notes on solving the current-value Hamiltonian using the Lagrangian approach:)"
+  },
+  {
+    "objectID": "notes.html#seminar-notes-for-python-programming-for-economics-autumn-2025",
+    "href": "notes.html#seminar-notes-for-python-programming-for-economics-autumn-2025",
+    "title": "Notes",
+    "section": "Seminar Notes for Python Programming for Economics (Autumn 2025)",
+    "text": "Seminar Notes for Python Programming for Economics (Autumn 2025)\nMaterials for ECON1059 seminars. PDF files are for quick reading, and notebooks are for running or editing the code.\n\n\n\nSeminar\nPDF\nNotebook\n\n\n\n\nSeminar 1\nPDF\nipynb\n\n\nSeminar 2\nPDF\nipynb\n\n\nSeminar 3\nPDF\nipynb\n\n\nSeminar 4\nPDF\nipynb\n\n\nSeminar 5\nPDF\nipynb\n\n\nSeminar 6\nPDF\nipynb\n\n\nSeminar 7\nPDF\nipynb\n\n\nSeminar 8\nPDF\nipynb\n\n\nSeminar 9\nPDF\nipynb\n\n\n\nAdditional material:\n\nBinary Big O (PDF)"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -25,7 +67,7 @@
     "href": "cv.html#teaching",
     "title": "Curriculum Vitae",
     "section": "Teaching",
-    "text": "Teaching\n\nUNNC — GTA\n\nExperimental and Behavioural Economics (ECON2043), Autumn AY24–25\nAdvanced Experimental and Behavioural Economics (ECON3079), Spring AY25–26\nPython Programming for Economists (ECON1059), Spring AY25–26\n\nGZIST — Lecturer\n\nStatistics, Autumn AY22–23\nSecurities Investment, Autumn & Spring AY22–23"
+    "text": "Teaching\n\nUNNC — GTA\n\nExperimental and Behavioural Economics (ECON2043), Autumn AY24–25\nAdvanced Experimental and Behavioural Economics (ECON3079), Spring AY25–26\nPython Programming for Economics (ECON1059), Spring AY25–26\n\nGZIST — Lecturer\n\nStatistics, Autumn AY22–23\nSecurities Investment, Autumn & Spring AY22–23"
   },
   {
     "objectID": "cv.html#presentation",
@@ -56,6 +98,13 @@
     "text": "Languages\n\nMandarin Chinese, native\nHakka Chinese, native\nCantonese, native\nEnglish, fluent"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am happy to hear from researchers, students, and anyone interested in experimental and behavioural economics.\nJuncheng Zhang School of Economics University of Nottingham Ningbo China 201, Trent Building 199 Taikang East Road Ningbo, 315100, China\nEmail: Juncheng.ZHANG at nottingham dot edu dot cn"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Juncheng Zhang | 张俊成",
@@ -70,45 +119,17 @@
     "text": "I am a PhD Candidate in Economics at the University of Nottingham Ningbo China and a member of Centre for Decision Research and Experimental Economics (CeDEx) China. I received my Master’s degree from University of Southampton and my Bachelor’s degree from Jilin University, Zhuhai College. My research interests are in experimental and behavioural economics, especially how people’s self-perception shapes decision-making."
   },
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Slock.ai and AI Group Chats\n\n\n\nAI\n\n\n\n\n\n\nMay 17, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
     "text": "My research focuses on experimental and behavioural economics and decision theory, with a particular interest in how self-perception influences economic decision-making in labour market and search environments. I also have a broader interest in how artificial intelligence may reshape social norms. I use experimental methods to test theoretical predictions and study individual behaviour."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Experimental and Behavioural Economics (ECON2043)\nGraduate Teaching Assistant, Spring AY 2024-25; Spring AY 2025-26\nAdvanced Experimental and Behavioural Economics (ECON3079)\nGraduate Teaching Assistant, Spring AY 2025-26\nPython Programming for Economists (ECON1059)\nGraduate Teaching Assistant, Fall AY 2024-25"
-  },
-  {
-    "objectID": "teaching.html#university-of-nottingham-ningbo-china",
-    "href": "teaching.html#university-of-nottingham-ningbo-china",
-    "title": "Teaching",
-    "section": "",
-    "text": "Experimental and Behavioural Economics (ECON2043)\nGraduate Teaching Assistant, Spring AY 2024-25; Spring AY 2025-26\nAdvanced Experimental and Behavioural Economics (ECON3079)\nGraduate Teaching Assistant, Spring AY 2025-26\nPython Programming for Economists (ECON1059)\nGraduate Teaching Assistant, Fall AY 2024-25"
-  },
-  {
-    "objectID": "teaching.html#guangzhou-institute-of-science-and-technology",
-    "href": "teaching.html#guangzhou-institute-of-science-and-technology",
-    "title": "Teaching",
-    "section": "Guangzhou Institute of Science and Technology",
-    "text": "Guangzhou Institute of Science and Technology\n\nStatistics\nLecturer, Fall AY 2022-23\nSecurities Investment\nLecturer, Fall AY 2022-23; Spring AY 2022-23"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I am happy to hear from researchers, students, and anyone interested in experimental and behavioural economics.\nJuncheng Zhang School of Economics University of Nottingham Ningbo China 201, Trent Building 199 Taikang East Road Ningbo, 315100, China\nEmail: Juncheng.ZHANG at nottingham dot edu dot cn"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
-    "section": "",
-    "text": "Personal notes on solving the current-value Hamiltonian using the Lagrangian approach:)\n\nMacro Current-value Hamiltonian (PDF)"
   }
 ]

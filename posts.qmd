@@ -1,11 +1,15 @@
 ---
 title: "Posts"
-description-meta: "Posts and reflections by Juncheng Zhang"
+description-meta: "Short posts and reflections by Juncheng Zhang"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  fields: [date, title, categories]
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  page-size: 10
 page-navigation: false
 title-block-banner: false
 ---
-
-Personal notes on solving the current-value Hamiltonian using the Lagrangian approach:)
-
-- [Macro Current-value Hamiltonian (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf){target="_blank"}
-
