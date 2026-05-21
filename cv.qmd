@@ -21,8 +21,8 @@ title-block-banner: false
 ## Teaching 
 
 - UNNC — GTA
-  - Experimental and Behavioural Economics (ECON2043), Autumn AY24–25
-  - Advanced Experimental and Behavioural Economics (ECON3079), Spring AY25–26
+  - Experimental and Behavioural Economics (ECON2043), Autumn AY24–25, Spring AY25-26
+  - Advanced Experimental and Behavioural Economics (ECON3079), Spring AY24–25, AY25-26
   - Python Programming for Economics (ECON1059), Spring AY25–26
 
 - GZIST — Lecturer
@@ -35,7 +35,8 @@ title-block-banner: false
 
 ## Awards
 
-- UNNC PhD Scholarship, 2023-2026
+- PhD Strategic Scholarship (tuition & stipend), UNNC, 2023-2026
+- Excellent Teaching Award, Guangzhou Institute of Science and Technology, 2023
 - Dean's List Award, University of Southampton, 2021
 
 ## Skills
@@ -46,5 +47,5 @@ title-block-banner: false
 
 - Mandarin Chinese, native
 - Hakka Chinese, native
-- Cantonese, native
+- Cantonese Chinese, fluent
 - English, fluent
