@@ -9,6 +9,17 @@ Notes on solving the current-value Hamiltonian using the Lagrangian approach.
 
 - [Macro Current-value Hamiltonian (PDF)](files/notes/JZ_Macro_Current-value Hamiltonian.pdf){target="_blank"}
 
+Notes for Experimental and Behavioural Economics (Spring 2026)
+
+| Seminar | PDF |
+|---|---|
+| Seminar 1 | [PDF](files/notes/experimental-behavioural-economics-spring-2026/seminar1_slides.pdf){target="_blank"} |
+| Seminar 2 | [PDF](files/notes/experimental-behavioural-economics-spring-2026/seminar2_slides.pdf){target="_blank"} |
+| Seminar 3 | [PDF](files/notes/experimental-behavioural-economics-spring-2026/seminar3_slides.pdf){target="_blank"} |
+| Seminar 4 | [PDF](files/notes/experimental-behavioural-economics-spring-2026/seminar4_slides.pdf){target="_blank"} |
+| Seminar 5 | [PDF](files/notes/experimental-behavioural-economics-spring-2026/seminar5_slides.pdf){target="_blank"} |
+| Seminar 6 | [PDF](files/notes/experimental-behavioural-economics-spring-2026/seminar6_slides.pdf){target="_blank"} |
+
 Notes for Python Programming for Economics (Autumn 2025)
 
 
