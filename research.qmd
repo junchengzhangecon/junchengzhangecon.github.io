@@ -9,10 +9,10 @@ My research focuses on experimental and behavioural economics and decision theor
 
 ## Working Papers
 
-1. Sequential Job Search with Ego Utility
+[1] Sequential Job Search with Ego Utility
 
-2. Too Scared to Search? A Model of Ego Utility on Search — Presented at The 3rd Xiangjiang River Forum, HNU 2025
+[2] Too Scared to Search? A Model of Ego Utility on Search — Presented at The 3rd Xiangjiang River Forum, HNU 2025
 
 ## Work in Progress
 
-3. Ego Utility and Information Preference: Experimental Evidence
+[3] Ego Utility and Information Preference: Experimental Evidence
