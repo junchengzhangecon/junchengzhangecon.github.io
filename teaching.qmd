@@ -6,16 +6,25 @@ title-block-banner: false
 
 ## University of Nottingham Ningbo China
 
+### Undergraduate
+
 - **Experimental and Behavioural Economics (ECON2043)**  
-  Graduate Teaching Assistant, Autumn AY 2024-25 (Student evaluation: 97.6%); Spring AY 2025-26(Student evaluation: 98.6%)
+  Graduate Teaching Assistant, Autumn AY 2024-25 (Student evaluation: 97.6%); Spring AY 2025-26 (Student evaluation: 98.6%)
 
 - **Advanced Experimental and Behavioural Economics (ECON3079)**  
   Graduate Teaching Assistant, Spring AY 2024-25 (Student evaluation: 95.6%); Spring AY 2025-26 (Student evaluation: 100%)
 
 - **Python Programming for Economics (ECON1059)**<br>
-  Graduate Teaching Assistant, Autumn AY 2024-25 (Student evaluation: 99.3%)
+  Graduate Teaching Assistant, Autumn AY 2024-25 (Student evaluation: 99.3%); Autumn AY 2026-27
+
+### Master
+
+- **Microeconomics (ECON4063)**  
+  Autumn AY 2026-27
 
 ## Guangzhou Institute of Science and Technology
+
+### Undergraduate
 
 - **Statistics**  
   Lecturer, Autumn AY 2022-23
