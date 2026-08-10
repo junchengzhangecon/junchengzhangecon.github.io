@@ -114,6 +114,32 @@ blockquote {
   font-weight: 400;
 }
 
+.orcid-link {
+  display: inline-flex;
+  margin-left: 0.28em;
+  text-decoration: none;
+  vertical-align: 0.02em;
+}
+
+.orcid-icon {
+  display: block;
+  height: 0.62em;
+  width: 0.62em;
+  transition: opacity 150ms ease, transform 150ms ease;
+}
+
+.orcid-link:hover .orcid-icon,
+.orcid-link:focus-visible .orcid-icon {
+  opacity: 0.82;
+  transform: scale(1.06);
+}
+
+.orcid-link:focus-visible {
+  border-radius: 50%;
+  outline: 2px solid #12606d;
+  outline-offset: 3px;
+}
+
 /* Posts listing */
 #listing-listing {
   margin-top: 1rem;
