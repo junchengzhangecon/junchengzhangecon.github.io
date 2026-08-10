@@ -123,8 +123,10 @@ blockquote {
 
 .orcid-icon {
   display: block;
-  height: 0.62em;
-  width: 0.62em;
+  height: 18px;
+  max-height: 18px;
+  max-width: 18px;
+  width: 18px;
   transition: opacity 150ms ease, transform 150ms ease;
 }
 
