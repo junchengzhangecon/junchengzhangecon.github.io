@@ -1,5 +1,5 @@
 ---
-title: 'Juncheng Zhang <span class="divider">|</span> <span class="cn-name">张俊成</span><a class="orcid-link" href="https://orcid.org/my-orcid?orcid=0009-0008-9186-1821" aria-label="Juncheng Zhang ORCID profile" title="ORCID: 0009-0008-9186-1821"><img class="orcid-icon" src="files/images/orcid-logo.svg" alt="ORCID iD" width="18" height="18"></a>'
+title: 'Juncheng Zhang <span class="divider">|</span> <span class="cn-name">张俊成</span><a class="orcid-link" href="https://orcid.org/0009-0008-9186-1821" aria-label="Juncheng Zhang ORCID profile" title="ORCID: 0009-0008-9186-1821"><img class="orcid-icon" src="files/images/orcid-logo.svg" alt="ORCID iD" width="18" height="18"></a>'
 description-meta: "Juncheng Zhang, PhD Candidate in Economics at the University of Nottingham Ningbo China"
 image: "files/images/image.png"
 page-navigation: false
