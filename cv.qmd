@@ -6,9 +6,11 @@ title-block-banner: false
 
 ## Education
 
-- **PhD in Economics**, University of Nottingham Ningbo China, 2023-present
-- **MSc in Finance and Economics**, University of Southampton, 2020-2021
-- **BSc in Finance**, Zhuhai College of Jilin University, 2016-2020
+- **PhD in Economics**, University of Nottingham Ningbo China, 2023–present  
+  Advisors: [Stuart McDonald](https://research.nottingham.edu.cn/en/persons/stuart-mcdonald/), [Marcus Roel](https://www.marcusroel.com/), and [Shuo Yang](https://research.nottingham.edu.cn/en/persons/will-yang/)
+- **MSc in Finance and Economics**, University of Southampton, 2020–2021  
+  Dissertation Advisor: [Corrado Giulietti](https://www.corradogiulietti.com/)
+- **BSc in Finance**, Zhuhai College of Jilin University, 2016–2020
 
 ## Academic Affiliation
 
