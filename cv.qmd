@@ -33,7 +33,7 @@ title-block-banner: false
 
 ## Presentation
 
-- The 3rd Xiangjiang River Forum, HNU 2025
+- The 3rd Xiangjiang River Forum, HNU 2024
 
 ## Awards
 
