@@ -2,7 +2,7 @@
 title: "Call For Research Assistant (Open until filled)"
 date: 2026-08-19
 author: "Juncheng Zhang"
-categories: [Pinned, Research]
+categories: [Research]
 pinned: true
 title-block-banner: false
 ---

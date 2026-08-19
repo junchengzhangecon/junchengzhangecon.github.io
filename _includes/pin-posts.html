@@ -3,12 +3,23 @@ document.addEventListener("DOMContentLoaded", () => {
   const listing = document.querySelector("#listing-listing .list");
   if (!listing) return;
 
+  const pinnedPaths = new Set([
+    "./posts/research-assistant-call/index.html",
+  ]);
   const pinnedPosts = Array.from(listing.querySelectorAll(".quarto-post")).filter((post) =>
-    Array.from(post.querySelectorAll(".listing-category")).some(
-      (category) => category.textContent.trim() === "Pinned"
-    )
+    pinnedPaths.has(post.querySelector(".listing-title a")?.getAttribute("href"))
   );
 
-  pinnedPosts.reverse().forEach((post) => listing.prepend(post));
+  pinnedPosts.reverse().forEach((post) => {
+    listing.prepend(post);
+
+    const title = post.querySelector(".listing-title");
+    if (title && !title.querySelector(".pinned-label")) {
+      const label = document.createElement("span");
+      label.className = "pinned-label";
+      label.textContent = "Pinned";
+      title.prepend(label);
+    }
+  });
 });
 </script>

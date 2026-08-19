@@ -178,6 +178,15 @@ blockquote {
   margin-bottom: 0.45rem;
 }
 
+#listing-listing .pinned-label {
+  color: var(--jz-muted);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-right: 0.55rem;
+  text-transform: uppercase;
+}
+
 #listing-listing .listing-title a {
   color: var(--jz-ink);
   text-decoration: none;
