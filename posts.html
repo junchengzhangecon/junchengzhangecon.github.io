@@ -316,14 +316,12 @@ May 17, 2026
 <script src="./files/js/category-colors.js"></script>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
+  window.setTimeout(() => {
   const listing = document.querySelector("#listing-listing .list");
   if (!listing) return;
 
-  const pinnedPaths = new Set([
-    "./posts/research-assistant-call/index.html",
-  ]);
   const pinnedPosts = Array.from(listing.querySelectorAll(".quarto-post")).filter((post) =>
-    pinnedPaths.has(post.querySelector(".listing-title a")?.getAttribute("href"))
+    post.querySelector(".listing-title a")?.href.includes("/posts/research-assistant-call/")
   );
 
   pinnedPosts.reverse().forEach((post) => {
@@ -337,6 +335,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title.prepend(label);
     }
   });
+  }, 50);
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
