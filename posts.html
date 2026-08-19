@@ -205,7 +205,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QUk=">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2VERXg=">CeDEx <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QUk=">AI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2VERXg=">CeDEx <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGlubmVk">Pinned <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -272,12 +272,14 @@ Aug 19, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1787068800000" data-listing-file-modified-sort="1787127356647" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
+<div class="quarto-post image-right" data-index="2" data-categories="UGlubmVkJTJDUmVzZWFyY2g=" data-listing-date-sort="1787068800000" data-listing-file-modified-sort="1787127617950" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./posts/research-assistant-call/index.html" class="no-external">Call For Research Assistant (Open until filled)</a>
 </h3>
 <div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGlubmVk'); return false;">Pinned</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
 
@@ -314,6 +316,20 @@ May 17, 2026
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script src="./files/js/category-colors.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const listing = document.querySelector("#listing-listing .list");
+  if (!listing) return;
+
+  const pinnedPosts = Array.from(listing.querySelectorAll(".quarto-post")).filter((post) =>
+    Array.from(post.querySelectorAll(".listing-category")).some(
+      (category) => category.textContent.trim() === "Pinned"
+    )
+  );
+
+  pinnedPosts.reverse().forEach((post) => listing.prepend(post));
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

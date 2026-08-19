@@ -1,0 +1,14 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const listing = document.querySelector("#listing-listing .list");
+  if (!listing) return;
+
+  const pinnedPosts = Array.from(listing.querySelectorAll(".quarto-post")).filter((post) =>
+    Array.from(post.querySelectorAll(".listing-category")).some(
+      (category) => category.textContent.trim() === "Pinned"
+    )
+  );
+
+  pinnedPosts.reverse().forEach((post) => listing.prepend(post));
+});
+</script>

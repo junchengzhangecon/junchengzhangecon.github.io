@@ -12,4 +12,5 @@ listing:
   page-size: 10
 page-navigation: false
 title-block-banner: false
+include-after-body: _includes/pin-posts.html
 ---
