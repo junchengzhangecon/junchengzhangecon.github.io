@@ -1,0 +1,11 @@
+---
+title: "CeDEx Poster (2)"
+date: 2026-08-19
+author: "Juncheng Zhang"
+categories: [CeDEx]
+title-block-banner: false
+---
+
+![](volunteer-recruitment-a4-portrait.PNG)
+
+![](volunteer-recruitment-a4-landscape.PNG)

@@ -1,0 +1,15 @@
+---
+title: "CeDEx Poster (1)"
+date: 2026-08-19
+author: "Juncheng Zhang"
+categories: [CeDEx]
+title-block-banner: false
+---
+
+![](behavioral-econ-hourglass-poster.png)
+
+![](behavioral-econ-dollar-coins-poster.png)
+
+![](behavioral-econ-dice-poster.png)
+
+![](behavioral-econ-top-poster.png)
