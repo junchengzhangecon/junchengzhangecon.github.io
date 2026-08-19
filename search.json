@@ -28,11 +28,32 @@
     "text": "Slock.ai is quite interesting, it lets people create a group chat for AI agents, either within the same model or across different models."
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
     "section": "",
-    "text": "Notes on solving the current-value Hamiltonian using the Lagrangian approach.\n\nMacro Current-value Hamiltonian (PDF)\n\nNotes for Experimental and Behavioural Economics (Spring 2026)\n\n\n\nSeminar\nPDF\n\n\n\n\nSeminar 1\nPDF\n\n\nSeminar 2\nPDF\n\n\nSeminar 3\nPDF\n\n\nSeminar 4\nPDF\n\n\nSeminar 5\nPDF\n\n\nSeminar 6\nPDF\n\n\n\nNotes for Python Programming for Economics (Autumn 2025)\n\n\n\nSeminar\nPDF\nNotebook\n\n\n\n\nSeminar 1\nPDF\nipynb\n\n\nSeminar 2\nPDF\nipynb\n\n\nSeminar 3\nPDF\nipynb\n\n\nSeminar 4\nPDF\nipynb\n\n\nSeminar 5\nPDF\nipynb\n\n\nSeminar 6\nPDF\nipynb\n\n\nSeminar 7\nPDF\nipynb\n\n\nSeminar 8\nPDF\nipynb\n\n\nSeminar 9\nPDF\nipynb"
+    "text": "CeDEx Poster (1)\n\n\n\nCeDEx\n\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\nCeDEx Poster (2)\n\n\n\nCeDEx\n\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\nCall For Research Assistant (Open until filled)\n\n\n\nResearch\n\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\nSlock.ai and AI Group Chats\n\n\n\nAI\n\n\n\n\n\n\nMay 17, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Juncheng Zhang | 张俊成",
+    "section": "",
+    "text": "I am a PhD Candidate in Economics at the University of Nottingham Ningbo China and a member of Centre for Decision Research and Experimental Economics (CeDEx) China. I received my Master’s degree from University of Southampton and my Bachelor’s degree from Jilin University, Zhuhai College. My research interests span labour economics, experimental economics, and behavioural economics, with a particular focus on how self-perception shapes individual decision-making."
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "Juncheng Zhang | 张俊成",
+    "section": "",
+    "text": "I am a PhD Candidate in Economics at the University of Nottingham Ningbo China and a member of Centre for Decision Research and Experimental Economics (CeDEx) China. I received my Master’s degree from University of Southampton and my Bachelor’s degree from Jilin University, Zhuhai College. My research interests span labour economics, experimental economics, and behavioural economics, with a particular focus on how self-perception shapes individual decision-making."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am happy to hear from researchers, students, and anyone interested in experimental and behavioural economics.\nJuncheng Zhang School of Economics University of Nottingham Ningbo China 201, Trent Building 199 Taikang East Road Ningbo, 315100, China\nEmail: Juncheng.ZHANG at nottingham dot edu dot cn"
   },
   {
     "objectID": "cv.html",
@@ -84,32 +105,18 @@
     "text": "Skills\nLATEX, Python, Stata, R, z-Tree, oTree ## Languages\n\nMandarin Chinese, native\nHakka Chinese, native\nCantonese Chinese, fluent\nEnglish, fluent"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
     "section": "",
-    "text": "I am happy to hear from researchers, students, and anyone interested in experimental and behavioural economics.\nJuncheng Zhang School of Economics University of Nottingham Ningbo China 201, Trent Building 199 Taikang East Road Ningbo, 315100, China\nEmail: Juncheng.ZHANG at nottingham dot edu dot cn"
+    "text": "Notes on solving the current-value Hamiltonian using the Lagrangian approach.\n\nMacro Current-value Hamiltonian (PDF)\n\nNotes for Experimental and Behavioural Economics (Spring 2026)\n\n\n\nSeminar\nPDF\n\n\n\n\nSeminar 1\nPDF\n\n\nSeminar 2\nPDF\n\n\nSeminar 3\nPDF\n\n\nSeminar 4\nPDF\n\n\nSeminar 5\nPDF\n\n\nSeminar 6\nPDF\n\n\n\nNotes for Python Programming for Economics (Autumn 2025)\n\n\n\nSeminar\nPDF\nNotebook\n\n\n\n\nSeminar 1\nPDF\nipynb\n\n\nSeminar 2\nPDF\nipynb\n\n\nSeminar 3\nPDF\nipynb\n\n\nSeminar 4\nPDF\nipynb\n\n\nSeminar 5\nPDF\nipynb\n\n\nSeminar 6\nPDF\nipynb\n\n\nSeminar 7\nPDF\nipynb\n\n\nSeminar 8\nPDF\nipynb\n\n\nSeminar 9\nPDF\nipynb"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Juncheng Zhang | 张俊成",
+    "objectID": "posts/research-assistant-call/index.html",
+    "href": "posts/research-assistant-call/index.html",
+    "title": "Call For Research Assistant (Open until filled)",
     "section": "",
-    "text": "I am a PhD Candidate in Economics at the University of Nottingham Ningbo China and a member of Centre for Decision Research and Experimental Economics (CeDEx) China. I received my Master’s degree from University of Southampton and my Bachelor’s degree from Jilin University, Zhuhai College. My research interests span labour economics, experimental economics, and behavioural economics, with a particular focus on how self-perception shapes individual decision-making."
-  },
-  {
-    "objectID": "index.html#hi-there",
-    "href": "index.html#hi-there",
-    "title": "Juncheng Zhang | 张俊成",
-    "section": "",
-    "text": "I am a PhD Candidate in Economics at the University of Nottingham Ningbo China and a member of Centre for Decision Research and Experimental Economics (CeDEx) China. I received my Master’s degree from University of Southampton and my Bachelor’s degree from Jilin University, Zhuhai College. My research interests span labour economics, experimental economics, and behavioural economics, with a particular focus on how self-perception shapes individual decision-making."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
-    "section": "",
-    "text": "CeDEx Poster (1)\n\n\n\nCeDEx\n\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\nCeDEx Poster (2)\n\n\n\nCeDEx\n\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\nSlock.ai and AI Group Chats\n\n\n\nAI\n\n\n\n\n\n\nMay 17, 2026\n\n\n\n\n\nNo matching items"
+    "text": "We are recruiting undergraduate Research Assistants (RAs) to support research projects in Labor Economics, Educational Economics, and Network Economics. The project will run from September to December 2026, and the main RA responsibilities will involve data collection and data cleaning.\nAs the project requires continuous collaboration over the semester, regular and reliable time commitment throughout the project period is particularly important to us. Before applying, please consider your academic schedule and any other commitments that may affect your availability between September and December 2026.\nShortlisted applicants may be invited to a brief interview.\nWe greatly appreciate your interest in our research and look forward to learning more about you."
   },
   {
     "objectID": "research.html",
