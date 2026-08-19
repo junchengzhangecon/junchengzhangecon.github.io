@@ -10,7 +10,7 @@ title-block-banner: false
   Advisors: [Stuart McDonald](https://research.nottingham.edu.cn/en/persons/stuart-mcdonald/), [Marcus Roel](https://www.marcusroel.com/), and [Shuo Yang](https://research.nottingham.edu.cn/en/persons/will-yang/)
 - MSc in Finance and Economics, University of Southampton, 2020–2021  
   Advisor: [Corrado Giulietti](https://www.corradogiulietti.com/)
-- BSc in Finance, Zhuhai College of Jilin University, 2016–2020
+- BSc in Finance, Jilin University, Zhuhai, 2016–2020
 
 ## Academic Affiliation
 
@@ -33,7 +33,7 @@ title-block-banner: false
 
 ## Presentation
 
-- The 3rd Xiangjiang River Forum, HNU 2024
+- The 3rd Xiangjiang River Forum in Economics, Finance and Management for Young Scholars, HNU 2024
 
 ## Awards
 
