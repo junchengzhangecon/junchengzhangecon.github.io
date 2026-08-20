@@ -102,7 +102,14 @@
     "href": "cv.html#skills",
     "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\nLATEX, Python, Stata, R, z-Tree, oTree ## Languages\n\nMandarin Chinese, native\nHakka Chinese, native\nCantonese Chinese, fluent\nEnglish, fluent"
+    "text": "Skills\nLATEX, Python, Stata, R, z-Tree, oTree"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\n\nMandarin Chinese, native\nHakka Chinese, native\nCantonese Chinese, fluent\nEnglish, fluent"
   },
   {
     "objectID": "notes.html",
