@@ -19,4 +19,4 @@ title-block-banner: false
 
 [2] **“Association between physical activity and depressive symptoms in school-aged children.”** With [Lily Lin](https://research.nottingham.edu.cn/en/persons/lily-lin/) and [Stuart McDonald](https://research.nottingham.edu.cn/en/persons/stuart-mcdonald/). *Manuscript in preparation.*
 
-[3] **“Weight-Related Feedback, Self-Image Concerns, and Engagement in Weight Management.”** *Early-stage project.*
+[3] **“Weight-related feedback, self-image concerns, and engagement in weight management.”** *Early-stage project.*
